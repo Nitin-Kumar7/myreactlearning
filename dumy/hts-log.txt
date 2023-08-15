@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 21 Jul 2023 23:09:11 at http://deothemes.com/envato/deus/html/? +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://deothemes.com/envato/deus/html/? -O1 "C:\My Web Sites\blogger" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:09:52	Error: 	"Not Found" (404) at link deothemes.com/envato/deus/html/img/apple-touch-icon.png (from deothemes.com/envato/deus/html/?)
+23:12:35	Error: 	"Not Found" (404) at link deothemes.com/envato/deus/html/single-post-1.html (from deothemes.com/envato/deus/html/?)
+23:12:35	Error: 	"Not Found" (404) at link deothemes.com/envato/deus/html/single-post-3.html (from deothemes.com/envato/deus/html/?)
+23:12:35	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/deus/html/img/content/thumb/thumb_post_1.jpg (from deothemes.com/envato/deus/html/?)
+23:12:39	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/deus/html/img/content/thumb/thumb_post_2.jpg (from deothemes.com/envato/deus/html/?)
+23:12:39	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/deus/html/js/twitterFetcher_min.js (from deothemes.com/envato/deus/html/?)
+23:12:41	Error: 	"Not Found" (404) at link deothemes.com/envato/deus/html/css/owl.video.play.png (from deothemes.com/envato/deus/html/css/style.css)
+23:12:41	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/deus/html/css/colors/red.css (from deothemes.com/envato/deus/html/index-politics.html)
+23:12:41	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/deus/html/css/colors/pink.css (from deothemes.com/envato/deus/html/index-fashion.html)
+23:12:43	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/deus/html/img/logo_fashion.png (from deothemes.com/envato/deus/html/index-fashion.html)
+23:12:43	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/deus/html/img/content/list/list_post_8.jpg (from deothemes.com/envato/deus/html/index-fashion.html)
+23:12:44	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/deus/html/img/content/list/list_post_10.jpg (from deothemes.com/envato/deus/html/index-fashion.html)
+23:12:47	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/deus/html/img/content/hero/hero_post_10.jpg (from deothemes.com/envato/deus/html/index-games.html)
+23:12:48	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/deus/html/img/content/hero/hero_post_12.jpg (from deothemes.com/envato/deus/html/index-games.html)
+23:12:48	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/deus/html/img/content/hero/hero_post_13.jpg (from deothemes.com/envato/deus/html/index-videos.html)
+23:12:57	Error: 	"Not Found" (404) at link https://i.ytimg.com/vi/mn6Ia5e_suY/default.jpg (from deothemes.com/envato/deus/html/index-videos.html)
+23:12:57	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/deus/html/img/content/thumb/thumb_post_5.jpg (from deothemes.com/envato/deus/html/index-videos.html)
+23:12:58	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/deus/html/img/content/carousel/carousel_post_9.jpg (from deothemes.com/envato/deus/html/index-videos.html)
+23:12:59	Warning: 	Retry after error -4 (Incorrect length (140116 Bytes, 213632 expected)) at link deothemes.com/envato/deus/html/img/content/hero/hero_post_21.jpg (from deothemes.com/envato/deus/html/index-music.html)
+23:13:00	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/deus/html/img/content/carousel/carousel_post_19.jpg (from deothemes.com/envato/deus/html/index-music.html)
+23:13:16	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/deus/html/img/content/post_small/post_small_1.jpg (from deothemes.com/envato/deus/html/about.html)
+23:13:16	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/deus/html/img/content/single/single_post_img_1.jpg (from deothemes.com/envato/deus/html/single-post.html)
+23:13:16	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/deus/html/img/content/single/single_post_img_2.jpg (from deothemes.com/envato/deus/html/single-post.html)
+23:13:16	Error: 	"Not Found" (404) at link deothemes.com/envato/deus/html/js/jquery.magnific-popup.min.js (from deothemes.com/envato/deus/html/single-post.html)
+23:13:16	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/deus/html/img/content/single/single_post_fashion_featured_img.jpg (from deothemes.com/envato/deus/html/single-post-fashion.html)
+23:13:18	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/deus/html/img/content/thumb/thumb_post_5.jpg (from deothemes.com/envato/deus/html/index-videos.html)
+23:13:18	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/deus/html/img/content/hero/hero_post_21.jpg (from deothemes.com/envato/deus/html/index-music.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 17 seconds : 180 links scanned, 152 files written (7390178 bytes overall) [6228072 bytes received at 24233 bytes/sec], 1657835 bytes transferred using HTTP compression in 48 files, ratio 19%, 3.6 requests per connection
+(6 errors, 21 warnings, 0 messages)
