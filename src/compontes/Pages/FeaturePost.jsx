@@ -1,5 +1,6 @@
 import React from 'react'
  import Images from '../images'
+import image1 from '../../assets/images/content/grid/grid_post_1.jpg'
 
 const FeaturePost = () => {
  console.log(Images)
@@ -16,7 +17,7 @@ const FeaturePost = () => {
             <div className="featured-posts-grid__item featured-posts-grid__item--sm">
               <article className="entry card post-list featured-posts-grid__entry">
  
-              <div className="entry__img-holder post-list__img-holder card__img-holder" style={{ backgroundImage: "url('./../../Images/content/hero/hero_post_1.jpg')" }}>
+              <div className="entry__img-holder post-list__img-holder card__img-holder" style={{ backgroundImage: `url(${image1})` }}>
   
 
                   <a href="single-post.html" className="thumb-url"></a>

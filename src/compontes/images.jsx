@@ -1,3 +1,4 @@
+
 const Images = {
     about: {
       img: './Images/about/about_bg.jpg'
@@ -6,7 +7,7 @@ const Images = {
     grid: {},
     hero: [
       {
-        img: './Images/hero/hero_post_1.jpg',
+        img: '',
         title: 'Founders With Booming Businesses Share Stories About Their Difficult Early',
         name: 'doremon',
         date: new Date('d-m-y'),
