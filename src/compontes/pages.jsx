@@ -1,15 +1,15 @@
 import React from 'react'
- 
 import Trending from './Pages/Trending'
- import FeaturePost from './Pages/FeaturePost'
+ import FeaturedPosts from './Pages/FeaturedPosts'
  import LatestNew from './Pages/LatestNew'
  
 
 const pages = () => {
+  
   return (
     <div>
         <Trending/>
-        <FeaturePost/>
+        <FeaturedPosts/>
         <LatestNew/>
       
     </div>

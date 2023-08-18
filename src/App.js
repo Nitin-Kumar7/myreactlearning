@@ -1,7 +1,7 @@
 import React from 'react'
 import { Header,Footer,Sidebar, Pages ,Preloader_overlay ,Topbar } from './compontes';
 import './App.css'
- 
+
  
 function App() {
   return (
