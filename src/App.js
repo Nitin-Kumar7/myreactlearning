@@ -1,20 +1,19 @@
-import React from 'react'
-import { Header,Footer,Sidebar, Pages ,Preloader_overlay ,Topbar } from './compontes';
-import './App.css'
+import React from "react";
+import "./App.css";
+import "./assets/css/style.css";
+import "./assets/css/font-icons.css";
+import Home from "./pages/Home/Home";
+import { Navbar, Footer } from "./components/";
 
- 
 function App() {
   return (
-     <div>
-      <Preloader_overlay/> 
-      <Sidebar/>
+    <>
+      <Navbar />
       <main className="main oh" id="main">
-      <Topbar/>
-      <Header/> 
-      <Pages/>
-      <Footer/>
+        <Home />
       </main>
-     </div>
+      <Footer />
+    </>
   );
 }
 
