@@ -4,7 +4,7 @@ import img3 from "../assets/images/content/grid/grid_post_3.jpg";
 
 const featuredPostData = [
   {
-    imageSrc: { img1 },
+    imageSrc: img1,
     categoryColor: "violet",
     category: "World",
     title:
@@ -13,7 +13,7 @@ const featuredPostData = [
     date: "Jan 21, 2018",
   },
   {
-    imageSrc: { img2 },
+    imageSrc: img2,
     categoryColor: "violet",
     category: "World",
     title:
@@ -22,7 +22,7 @@ const featuredPostData = [
     date: "Jan 21, 2018",
   },
   {
-    imageSrc: { img3 },
+    imageSrc: img3,
     actualImageSrc: "../../assets/images/content/grid/grid_post_3.jpg",
     categoryColor: "violet",
     category: "World",
